@@ -21,7 +21,7 @@ Our GetCryptoPayments repository is private for security to see our project go t
 ➥Krishna<br>
 
 # Milestone<br>
-⌘ Alpha Version this JuLy 2018<br>
+⌘ Alpha Version this July 2018<br>
 ⌘ Beta Version this August 2018<br>
 ⌘ Official Launch this September 2018<br>
 ⌘ First dividends December 2018 <br>
