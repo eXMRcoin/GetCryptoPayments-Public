@@ -21,7 +21,7 @@ Our GetCryptoPayments repository is private for security to see our project go t
 ➥ Krishna<br>
 
 # Milestone<br>
-⌘ Alpha Version this July 2018<br>
+⌘ Alpha Version "Ongoing"<br>
  Features: <br>
 ✦ Registration and log in with OTP system.<br>
 ✦ Voting system to add coins per reach 70,000 points.<br> 
