@@ -1,5 +1,5 @@
 # GetCryptoPayments-Public
-Our GetCryptoPayments repository is private for security to see our project go to: https://getcryptopayments.org 
+Our GetCryptoPayments repository is private for security to see our project go to: https://getcryptopayments.org ₿
 ![Logo](https://github.com/eXMRcoin/e-XMR/blob/master/eXMR-master/eXMR_200X200.png?raw=true)
 # ETHEREUM MONERO (EXMR)
 # Project-GetCryptoPayments.org®
@@ -22,7 +22,7 @@ Our GetCryptoPayments repository is private for security to see our project go t
 
 # Milestone<br>
 ⌘ Alpha Version "Ongoing"<br>
- Features: <br>
+ 🍀 Features: <br>
 ✦ Registration and log in with OTP system.<br>
 ✦ Voting system to add coins per reach 70,000 points.<br> 
 ✦ From 1 to 5 wallets in operation.<br> 
