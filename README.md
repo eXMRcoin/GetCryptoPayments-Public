@@ -15,7 +15,6 @@ Our repository is private for security..
 # Developer Team<br>
 ➥pnija<br>
 ➥albertnanita<br>
-➥JulianIsrael<br>
 ➥anand230999<br>
 ➥vipinmohan22<br>
 
@@ -30,7 +29,7 @@ Our repository is private for security..
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
 ⌘ Official Launch this December 2018<br>
-⌘ First bonus December 2018 <br>
+⌘ First bonus April 2019 <br>
 
 
 
