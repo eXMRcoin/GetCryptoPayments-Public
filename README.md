@@ -1,3 +1,4 @@
+# Our GetCryptoPayments repository is private for security to see our project go to: https://getcryptopayments.org
 ![Logo](https://github.com/eXMRcoin/Ethereum-Monero/blob/master/eXMR-master/logo1.png?raw=true)
 # EXMR 
 # Our repository is private for security.. 
