@@ -22,7 +22,7 @@
 ⌘ Alpha Version July 2018<br>
 ⌘ Beta Version September 2018<br>
 ⌘ Official Launch this December 2018<br>
-⌘ New UI-UX March 2019<br>
+⌘ New UI-UX April 2019
 
 🍀 Features: <br>
 ✦ Swap between coins or tokens<br>
